@@ -30,4 +30,3 @@ done
 echo ""
 echo "All experiments finished!"
 echo "Checkpoints → outputs/checkpoints/"
-echo "Results are printed above."
