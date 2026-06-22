@@ -44,7 +44,7 @@ Run unlearning with random, low-uncertainty-first, and high-uncertainty-first or
 If you use this library or the findings of the paper in your work, please cite:
 
 ```
-@inproceedings{makroosalsa,
+@inproceedings{vasampapathdependenceUnlearning,
   title={Controlling Path Dependence in Gradient Ascent Unlearning through Forget-Set Ordering},
   author={Sampath Kumar, Varun and Nadimi, Esmaeil S and Gogineni, Vinay Chakravarthi},
   booktitle={The 42st Conference on Uncertainty in Artificial Intelligence}
