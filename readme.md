@@ -38,3 +38,14 @@ Bashchmod +x run_experiments.sh
 This will:
 Train the base ResNet18 for 5 epochs (saves checkpoint)
 Run unlearning with random, low-uncertainty-first, and high-uncertainty-first orderings
+
+
+### Citation
+If you use this library or the findings of the paper in your work, please cite:
+
+@inproceedings{makroosalsa,
+  title={Controlling Path Dependence in Gradient Ascent Unlearning through Forget-Set Ordering},
+  author={Sampath Kumar, Varun and Nadimi, Esmaeil S and Gogineni, Vinay Chakravarthi},
+  booktitle={The 42st Conference on Uncertainty in Artificial Intelligence}
+}
+
